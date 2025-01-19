@@ -28,7 +28,7 @@ Para rodar o jogo, você precisará de:
 
 - `index.html`: Estrutura HTML para o jogo.
 - `style.css`: (Opcional) Estilos para customização visual.
-- `script.js`: Lógica principal do jogo.
+- `App.js`: Lógica principal do jogo.
 
 ## 🔧 Como Executar
 
