@@ -2,6 +2,8 @@
 
 Bem-vindo ao **Jogo do Número Secreto**! Este é um jogo simples e divertido onde o objetivo é adivinhar o número secreto gerado aleatoriamente. Divirta-se enquanto desafia sua sorte e habilidades de adivinhação!
 
+🖥️ >>>    https://jogo-numero-secreto-henna-phi.vercel.app/   <<<
+
 ## 🚀 Funcionalidades
 
 - **Número Aleatório**: O número secreto é gerado aleatoriamente entre 1 e 100.
