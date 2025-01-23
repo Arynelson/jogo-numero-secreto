@@ -32,9 +32,5 @@ Para rodar o jogo, você precisará de:
 - `style.css`: (Opcional) Estilos para customização visual.
 - `App.js`: Lógica principal do jogo.
 
-## 🔧 Como Executar
 
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/jogo-numero-secreto.git
 
