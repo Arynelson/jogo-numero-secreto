@@ -1,36 +1,37 @@
-# Jogo do Número Secreto 🎲
-
-Bem-vindo ao **Jogo do Número Secreto**! Este é um jogo simples e divertido onde o objetivo é adivinhar o número secreto gerado aleatoriamente. Divirta-se enquanto desafia sua sorte e habilidades de adivinhação!
-
-🖥️ >>>    https://jogo-numero-secreto-henna-phi.vercel.app/   <<<
-
-## 🚀 Funcionalidades
-
-- **Número Aleatório**: O número secreto é gerado aleatoriamente entre 1 e 100.
-- **Dicas**: O jogo informa se o número secreto é maior ou menor que o seu palpite.
-- **Tentativas**: Conta quantas tentativas você levou para descobrir o número.
-- **Reinício**: Recomece o jogo a qualquer momento.
-
-## 🛠️ Como Funciona
-
-1. Escolha um número entre 1 e 100.
-2. Insira seu palpite no campo de entrada e clique no botão para verificar.
-3. Receba dicas indicando se o número secreto é maior ou menor que o seu chute.
-4. Continue tentando até descobrir o número secreto.
-5. O número de tentativas será exibido ao final.
-
-## 🖥️ Pré-requisitos
-
-Para rodar o jogo, você precisará de:
-
-- Um navegador atualizado (Google Chrome, Firefox, etc.)
-- Um editor de texto (opcional, caso queira modificar o código)
-
-## 🏗️ Estrutura do Projeto
-
-- `index.html`: Estrutura HTML para o jogo.
-- `style.css`: (Opcional) Estilos para customização visual.
-- `App.js`: Lógica principal do jogo.
+Secret Number Game 🎲
+Welcome to the Secret Number Game! This is a simple and fun game where the goal is to guess a randomly generated secret number. Challenge your luck and testing your guessing skills as you play!
 
 
+🚀 Features
+Random Number Generation: The secret number is randomly generated between 1 and 100.
+Helpful Hints: Get hints indicating whether the secret number is higher or lower than your guess.
+Attempts Tracker: See how many tries it takes to uncover the secret number.
+Game Restart: Restart the game at any time to play again.
 
+🛠️ How It Works
+
+Choose a number between 1 and 100.
+Enter your guess into the input field and click the button to check it.
+Follow the hints to determine if the secret number is higher or lower than your guess.
+Keep guessing until you discover the secret number.
+Your total number of attempts will be displayed once you win.
+
+🖥️ Prerequisites
+
+To play the game, you'll need:
+  -An up-to-date web browser (Google Chrome, Firefox, etc.)
+  -A text editor (optional, if you want to modify the code)
+  
+🏗️ Project Structure
+
+index.html: The HTML structure for the game.
+style.css: (Optional) Custom styles for visual enhancement.
+App.js: The main game logic.
+
+📬 Contact
+
+If you have any questions, suggestions, or feedback, feel free to reach out:
+
+Name: Ary Hauffe Neto (GitHub: Arynelson)
+Email: aryhauffe@gmail.com
+Enjoy the game and happy guessing!
