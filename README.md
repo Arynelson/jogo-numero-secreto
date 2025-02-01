@@ -1,8 +1,10 @@
 Secret Number Game 🎲
+
 Welcome to the Secret Number Game! This is a simple and fun game where the goal is to guess a randomly generated secret number. Challenge your luck and testing your guessing skills as you play!
 
 
 🚀 Features
+
 Random Number Generation: The secret number is randomly generated between 1 and 100.
 Helpful Hints: Get hints indicating whether the secret number is higher or lower than your guess.
 Attempts Tracker: See how many tries it takes to uncover the secret number.
