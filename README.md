@@ -34,7 +34,7 @@ App.js: The main game logic.
 
 If you have any questions, suggestions, or feedback, feel free to reach out:
 
-Name: Ary Hauffe Neto (GitHub: Arynelson)
+Name: Ary Hauffe Neto
 
 Email: aryhauffe@gmail.com
 
